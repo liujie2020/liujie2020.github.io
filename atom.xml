@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liujie2020.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-18T13:52:02.536Z</updated>
+    <title>往事</title>
+    <updated>2020-04-18T13:53:39.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liujie2020.github.io"/>
     <link rel="self" href="https://liujie2020.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://liujie2020.github.io/images/avatar.png</logo>
     <icon>https://liujie2020.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 往事</rights>
     <entry>
         <title type="html"><![CDATA[二零零零]]></title>
         <id>https://liujie2020.github.io/post/2000</id>
